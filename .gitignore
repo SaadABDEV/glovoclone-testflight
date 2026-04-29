@@ -17,5 +17,6 @@ ios/build/
 
 # OS / IDE
 .DS_Store
+._*
 .idea/
 .vscode/
